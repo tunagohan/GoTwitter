@@ -8,6 +8,7 @@ GoでTwitterを楽しむ
 - ConsumerSecret_Key
 - AccessToken_Key
 - AccessTokenSecret_Key
+
 の4つをメモしておく
 
 ## TwitterAPIライブラリanacondaを利用する
