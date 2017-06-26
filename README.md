@@ -29,7 +29,7 @@ $ vim config.json
 }
 ```
 
-## Running
+## 動かす
 ```
 $ go run userTimeline.go -conf=config.json
 ```
