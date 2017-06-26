@@ -32,5 +32,5 @@ $ vim config.json
 
 ## 動かす
 ```
-$ go run userTimeline.go -conf=config.json
+$ go run usertimeline.go -conf=config.json
 ```
